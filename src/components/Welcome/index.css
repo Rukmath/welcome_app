@@ -1,0 +1,36 @@
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Bree serif';
+  color: #f0bb03;
+  font-size: 60px;
+  margin-bottom: 16px;
+}
+
+.desc {
+  font-family: 'Bree serif';
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.custom-button {
+  background-color: #ffffff;
+  color: #1e293b;
+  height: 35px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 8px;
+  font-family: 'Bree serif';
+  font-weight: bold;
+  margin-top: 8px;
+}
